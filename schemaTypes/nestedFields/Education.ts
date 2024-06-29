@@ -6,23 +6,8 @@ export default {
     type: 'document',
     fields: [
         {
-            name: 'title',
-            title: 'Title',
-            type: 'string'
-        },
-        {
-            name: 'city',
-            title: 'City',
-            type: 'string'
-        },
-        {
-            name: 'state',
-            title: 'State',
-            type: 'string'
-        },
-        {
-            name: 'companyName',
-            title: 'Company Name',
+            name: 'universityName',
+            title: 'University Name',
             type: 'string'
         },
         {
@@ -36,8 +21,8 @@ export default {
             type: 'string'
         },
         {
-            name: 'skills',
-            title: 'Skills',
+            name: 'degree',
+            title: 'degree',
             type: 'string'
         },
         {
@@ -46,13 +31,13 @@ export default {
             type: 'string'
         },
         {
-            name: 'workSummary',
-            title: 'Work Summary',
+            name: 'description',
+            title: 'Description',
             type: 'text'
         },
         {
-            name: 'currentlyWorking',
-            title: 'Currently Working',
+            name: 'currentlyStudying',
+            title: 'Currently Studying',
             type: 'boolean'
         },
     ]
