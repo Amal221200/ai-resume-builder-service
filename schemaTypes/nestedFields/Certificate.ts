@@ -17,7 +17,7 @@ export default {
         },
         {
             name: 'provider',
-            title: 'rovider',
+            title: 'Provider',
             type: 'string'
         },
         {

@@ -41,11 +41,6 @@ export default {
             type: 'string'
         },
         {
-            name: 'major',
-            title: 'Major',
-            type: 'string'
-        },
-        {
             name: 'workSummary',
             title: 'Work Summary',
             type: 'text'
