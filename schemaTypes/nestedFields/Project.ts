@@ -1,8 +1,8 @@
 import { DocumentDefinition } from "sanity";
 
 export default {
-    name: 'experience',
-    title: 'Experience',
+    name: 'project',
+    title: 'Project',
     type: 'document',
     fields: [
         {
